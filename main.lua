@@ -12,7 +12,7 @@ local f3 = 0
 
 --splash_button1,2,3
 function splash_but1.onClick()
-  activity.newActivity("creat_player")
+  activity.newActivity("creat_page1")
 end
 
 function splash_but2.onClick()

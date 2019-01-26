@@ -7,7 +7,7 @@ import "segment"
 
 race=0
 
-activity.setContentView(loadlayout"aly/creat_player1")
+activity.setContentView(loadlayout"aly/creat_page1")
 
 function zz_rl_but4.onClick()
   zz_info.text=txt_rl
@@ -30,5 +30,5 @@ function zz_wl_but1.onClick()
 end
 
 function zz_commit.onClick()
-  activity.newActivity("creat_player2")
+  activity.newActivity("creat_page2")
 end
