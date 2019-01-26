@@ -1,0 +1,9 @@
+appname="osc2"
+appver="1.0.0"
+packagename="com.androlua.osc2"
+appcode="1"
+appsdk="15"
+theme="Theme_Holo_Light_NoActionBar_TranslucentDecor"
+user_permission={
+  "WRITE_EXTERNAL_STORAGE",
+}
